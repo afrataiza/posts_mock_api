@@ -196,41 +196,6 @@
       "postId": 9,
       "authorId": 5,
       "createdAt": "26/02/2023 08:23:45"
-    },
-    {
-      "id": 16,
-      "content": "You’re helping us sound lovely.",
-      "postId": 2,
-      "authorId": 10,
-      "createdAt": "27/01/2023 10:23:45"
-    },
-    {
-      "id": 17,
-      "content": "You’re a divine present.",
-      "postId": 8,
-      "authorId": 8,
-      "createdAt": "28/02/2023 12:23:45"
-    },
-    {
-      "id": 18,
-      "content": "The expression is lovely.",
-      "postId": 10,
-      "authorId": 9,
-      "createdAt": "01/02/2023 14:23:45"
-    },
-    {
-      "id": 19,
-      "content": "You’re energetic, aren’t ya?",
-      "postId": 7,
-      "authorId": 5,
-      "createdAt": "02/02/2023 16:23:45"
-    },
-    {
-      "id": 20,
-      "content": "Impressive pic.",
-      "postId": 6,
-      "authorId": 7,
-      "createdAt": "03/02/2023 18:23:45"
     }
   ],
   "authors": [
