@@ -302,48 +302,6 @@
       "authorId": 10,
       "createdAt": "14/11/2022 14:23:45"
     },
-    {
-      "id": 31,
-      "content": "None of the comments can justify the cuteness.",
-      "postId": 4,
-      "authorId": 4,
-      "createdAt": "15/01/2023 16:23:45"
-    },
-    {
-      "id": 32,
-      "content": "You’re really getting good at these trending Instagram challenges, I must say.",
-      "postId": 9,
-      "authorId": 8,
-      "createdAt": "16/02/2023 18:23:45"
-    },
-    {
-      "id": 33,
-      "content": "I cannot believe how I found you, this is so pretty.",
-      "postId": 5,
-      "authorId": 9,
-      "createdAt": "17/01/2023 20:23:45"
-    },
-    {
-      "id": 34,
-      "content": "Even Beyonce would think this is prettier.",
-      "postId": 6,
-      "authorId": 3,
-      "createdAt": "18/02/2023 22:23:45"
-    },
-    {
-      "id": 35,
-      "content": "Irresistible!",
-      "postId": 10,
-      "authorId": 7,
-      "createdAt": "19/12/2022 00:23:45"
-    },
-    {
-      "id": 36,
-      "content": "With great pictures, comes great responsibility.",
-      "postId": 4,
-      "authorId": 8,
-      "createdAt": "20/01/2023 02:23:45"
-    }
   ],
   "authors": [
     {
